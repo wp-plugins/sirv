@@ -16,16 +16,16 @@ Sirv hosts your images and serves them to your WordPress site at any size you re
 
 Major features of Sirv image management:
 
-* Resizes your images to any size you require.
-* Responsive resizing to dynamically fit your page.
-* Serves your images incredibly fast from the Sirv CDN.
-* Stunning fast and deep image zooming into any size image.
-* Outstanding 360 spin for retailers selling products online.
-* Apply up to 4 image watermarks on each image.
+* Resize your images to any size you require.
+* Responsive resize to dynamically fit the screen.
+* Serve your images incredibly fast from the Sirv CDN.
+* Stunning deep image zoom to quickly view hi-res images.
+* Life-like 360 spin to show products from all angles.
+* Apply up to 4 image watermarks per image.
 * Overlay text captions on images.
-* Hosts all your images securely, with 3 original backups.
+* Host all your images securely, with 3 original backups.
 * Serve your images to unlimited websites, including eBay.
- 
+
 See the [complete list of features](https://sirv.com/features/) on the Sirv website.
 
 Free and paid plans are available, depending on your needs. See "Price Plans" below.
@@ -58,15 +58,15 @@ Incredibly fast, use Sirv to:
 * Greyscale and sepia
 * Brightness, contrast, exposure and more...
 
-Browse the complete range of Sirv [dynamic imaging processing options](https://sirv.com/resources/documentation/).
+Browse all the [dynamic image processing](https://sirv.com/resources/documentation/) options.
 
 = Image zoom =
 
-Sirv loves huge images - it can zoom deep inside them very fast. No matter how big, images load quickly in the same way as zooming into Google Maps. Beautiful high-resolution images and full-screen views help to sell products online. [Try demos](https://sirv.com/demos/).
+Sirv loves huge images - it can zoom deep inside them very fast. No matter how big, images load quickly, just like when you zoom into a Google Map. Beautiful high-resolution images and full-screen views help to sell products online. [Try demos](https://sirv.com/demos/).
 
 = 360 spin =
 
-Customers love to spin products around to see them from all sides. Sirv provides a stunning experience for such images. Upload a set of images to Sirv and your 360 spin is immediately ready fo embed in your page. It feels incredible on desktop and mobile alike, especially the big full-screen view. [Try demos](https://sirv.com/demos/).
+Customers adore spinning products around to see them from all sides. Sirv provides a stunning experience for such images. Upload a set of images to Sirv and your 360 spin is immediately ready fo embed in your page. It feels incredible on desktop and mobile alike, especially the big full-screen view. [Try demos](https://sirv.com/demos/).
 
 = Price plans =
 
@@ -92,7 +92,7 @@ We believe in fair and transparent pricing:
 
 = Multiple users =
 
-All users in your WordPress admin can view and embed images once you've installed the Sirv WordPress plugin.
+All users in your WordPress admin will be able to view and embed your Sirv images.
 
 To also give users access to your account on my.sirv.com, go to the [add users](https://my.sirv.com/#/account/users) section of your Sirv control panel.
 
@@ -116,7 +116,7 @@ To also give users access to your account on my.sirv.com, go to the [add users](
 
 = Where can I learn more about using Sirv? = 
 
-The official [Sirv documentation](https://sirv.com/resources/documentation/) is full of examples of things you can do with your images including:
+The official [Sirv documentation](https://sirv.com/resources/documentation/) is full of ways to display your images including:
 
 * [Getting Started](https://sirv.com/resources/getting-started/)
 * [Dynamic Imaging](https://sirv.com/resources/documentation/)
