@@ -3,7 +3,7 @@ Contributors: Sirv
 Donate link: https://sirv.com/
 Tags: CDN, image, media, library, plugin, admin, administration, api, editor, gallery, images, imaging, manage, manager, management, mobile, responsive, dynamic, wordpress, woocommerce, page, pages, post, posts, photo, photos, picture, pictures, upload, featured image, compression, imagemagick, optimize, jpegmini, jpegtran, lossless, lossy, optimization, optimise, optipng, pngout, pngquant, seo, tinyjpg, tinypng, webp, image zoom, zoom, 360 spin, 360, spin, crop image, dynamic images, fluid images, image optimization, responsive images, scale image, upload,  content delivery network, hosting, server, service, watermark, overlay, text overlay, resize, scale, crop, effects, fast, rapid, format, sepia, grayscale, brightness, vignette, webp, jpg, jpeg, png, gif, animated gif, rotate, rotation, borders, exif, caption, embed, quality, thumbnail, thumbnails, javascript, jquery, embed, ecommerce, api, admin.
 Requires at least: 3.0.1
-Tested up to: 4.2.2
+Tested up to: 4.3.0
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
